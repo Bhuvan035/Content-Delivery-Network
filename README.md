@@ -30,9 +30,6 @@ After compiling, run the program with:
 - Fast retrieval of cached content
 - Optimized data structures for performance
 
-## Contributing
-If you would like to contribute, feel free to fork the repository and submit a pull request.
+## Contact
 
-## License
-This project is licensed under the MIT License.
-
+For any questions or issues, feel free to reach out via GitHub Issues or email **[bhuvanchandra3008@gmail.com](mailto:bhuvanchandra3008@gmail.com)**.
